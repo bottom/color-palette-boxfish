@@ -1,0 +1,15 @@
+{
+  "name": "color-palette-boxfish",
+  "repo": "bottom/color-palette-boxfish",
+  "description": "Color palette of boxfish",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "necolas/normalize.css": "*"
+  },
+  "license": "MIT",
+  "styles": [
+    "css/color-palette-boxfish.css"
+  ]
+}
